@@ -66,7 +66,7 @@ These categories include criminal law, civil law, administrative law, and privat
 # Understanding Master Data Management
 Master data management (MDM) is a data governance discipline that uses processes, tools, and technologies to ensure that data assets across an organization have a single source of truth. Successfully implementing MDM is a challenge regardless of industry or organizational size. As organizational complexity increases, identifying and maintaining an accurate, consistent, well-governed single source of truth becomes more challenging.
 
-Processes
+# Processes
 The discipline of MDM is process-centric. For an organization with multiple separate operational systems, the consolidation of multiple data fields is part of a comprehensive duplicate resolution process. Maintaining a data dictionary is an essential component of effective MDM. A data dictionary is a document that contains metadata about your data structures.
 In addition to the details about each column in the table, a data dictionary includes other metadata, including
 
@@ -76,3 +76,9 @@ Column index definitions
 References by internal systems
 References by external systems
 Maintaining a data dictionary takes a significant effort. Fortunately, tools exist that can extract most of the metadata about tables from a database. It is crucial to instill procedural discipline for maintaining column-level comments since they help orient new analysts to your systems.
+
+# Circumstances
+
+Many circumstances lead an organization to pursue MDM. Typically, leadership identifies a difficulty that relates to having consistent information. To improve internal efficiency and reduce data quality issues, leadership recognizes the benefits of enhancing consistency across systems. 
+
+Another reason for adopting MDM is compliance with policies and regulations that require consistent handling of data. When the same data has different definitions in different systems, the cost of compliance increases. Using MDM to drive accurate and consistent data definitions leads to better data stewardship, which drives down the cost of compliance.
