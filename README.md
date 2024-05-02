@@ -45,4 +45,6 @@ The basic steps for creating a data governance program consist of the following.
 - Monitoring and measuring performance.
 - Maintaining the program.
 
+# Developing a Data Governance Framework
+While there are many framework variations to choose from, including ISACA’s Control Objectives for Information and Related Technologies (COBIT) IT governance framework, they share some common components that address people, processes, and technology.
 
