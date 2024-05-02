@@ -32,6 +32,7 @@ Some of the main advantages achieved by good data governance include:
 - Reduced data management costs
 - Established rules for handling data
 
+
   *Creating a Data Governance Program*
 The basic steps for creating a data governance program consist of the following. These steps also form the basic outline of this course.
 
@@ -43,3 +44,5 @@ The basic steps for creating a data governance program consist of the following.
 - Implementing the program.
 - Monitoring and measuring performance.
 - Maintaining the program.
+
+
