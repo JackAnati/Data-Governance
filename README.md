@@ -48,3 +48,40 @@ The basic steps for creating a data governance program consist of the following.
 # Developing a Data Governance Framework
 While there are many framework variations to choose from, including ISACA’s Control Objectives for Information and Related Technologies (COBIT) IT governance framework, they share some common components that address people, processes, and technology.
 
+*The most important qualities of a data governance framework.*
+- Leadership and Strategy
+- Roles and Responsibilities
+- Policies, Processes, and standard
+- Metrics
+- Tools
+- Communication and Collection
+
+ # Leadership and Strategy
+Your data governance program must be aligned with the strategy of the organization. 
+- Ensuring senoir leadership support and aligning data governance efforts with the vision, mission, and strategy of the organization.
+
+ # Roles and Responsibilities
+Your data governance program will only be possible with the right people doing the right things at the right time.
+- Identifying and empowering the right team members with responsibilities for the data governance program and others with accountability for data.
+
+  # Policies, Processes, and standards
+Policies, processes, and standards must include accountability and enforcement components; otherwise it’s possible they will be dead on arrival.
+- Developing and enforcing the policies, processes, and standards for governing and managiging data.
+  
+  # Metrics
+The data governance program must have a mechanism to measure whether it is delivering the expected results. Capturing metrics and delivering them to a variety of stakeholders is important for maintaining support, which includes funding.
+- Measuring and reporting on the perfomance of the data governance program and the broader outcomes of data management activities.
+  
+  # Tools
+Fortunately, a large marketplace now exists for tools in support of data governance and management. These include tools for master data management, data catalogs, search, security, integration, analytics, and compliance. 
+- Deploying and utilizing a range of software-based tools to support data governance and management.
+  
+  # Communication and Collection
+With the introduction of data governance and the ongoing, sometimes evolving, requirements, high-quality communications are key. This takes many forms, including in-person meetings, emails, newsletters, and workshops. Change management, in particular, requires careful attention to ensure that impacted team members understand how the changes brought about by the data governance program affect them and their obligations.
+- Adopting specific methods for high-performance communications and collaboration in support of data governance and management.
+
+# Preparing for Data Governance
+It might seem a good idea just to form a team, create a plan, buy some tools, and then implement data governance. That would be a mistake. Data governance requires careful treatment, beginning with understanding whether an organization is ready to accept it. Being ready as an organization involves determining the extent to which a data culture exists. Intuitively you can conclude that an immature, reactive data culture, where data is simply handled in an ad hoc manner, is an entirely different experience than a sophisticated data-driven culture.
+
+ # What is data culture?
+
