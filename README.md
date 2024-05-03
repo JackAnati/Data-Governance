@@ -97,6 +97,23 @@ Provide basic tools and education for data use that include manipulating data, a
 Do something, even if it’s small, to show progress. A successful data culture doesn’t begin with the deployment of complex, far-reaching solutions. Rather, it can be eased into the organization via basic data-management skills offered in a classroom setting or online.
 Recognize that resistance and frustration are part of the journey. Rather than fighting it, find ways to bring comfort and rewards to team members. At a minimum, provide a channel for feedback and positive discussion.
 
-     *Assessing Data Governance Readiness*
+       Assessing Data Governance Readiness
+
+The following basic checklist of items will help you determine the data governance readiness of your organization:
+
+- The basis of a data culture exists.
+- The program is 100 percent aligned with business strategy.
+- Senior leadership is 100 percent committed to the program and its goals.
+- Senior leadership understands this is a strategic, enterprise program and not the sole responsibility of the IT department.
+- One or more sponsors have been identified at an executive level.
+- The program has the commitment to fund its creation and to maintain it in the long term.
+- The organization understands this is an ongoing program and not a one-off project.
+- You have documented the return-on-investment (ROI).
+- Legal and compliance teams (internally or externally) understand and support the goals of the program.
+- Fundamental data skills exist for the data governance journey.
+- The IT organization is capable and resourced to support the program.
+
+# Chapter 2
+# Exploring a World Overflowing with Data 
 
 
