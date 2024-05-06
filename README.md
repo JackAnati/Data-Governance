@@ -168,3 +168,15 @@ At a minimum, data architecture considers and typically supports the following:
 
           Defining Big Data
 **Big data** is structured and unstructured data that is so massive and complex in scale, that it’s difficult and often impossible to process via traditional data management techniques.
+
+**One way to define and characterize big data is through these five Vs:**
+
+- Volume: The sheer scale of data being produced is unprecedented and requires new tools, skills, and processes.
+- Variety: There are already a lot of legacy file formats, such as CSV and MP3, and with new innovations, new formats are emerging all the time. This requires different methods of handling, from analysis to security.
+- Velocity: With so many collection points, digital interfaces, and ubiquitous connectivity, data is being created and moved at increasing speed. Consider that in 2021, Instagram users created, uploaded, and share 65,000 pictures a minute.
+- Variability:  The fact that the creation and flow of data are unpredictable.
+- Veracity:  The quality, including accuracy and truthfulness, of large volume of disparate sets of data, can differ considerably, causing challenges to data management.
+
+         Drivers of Big Data
+Big data was a thing even before Android and Apple smartphones and apps started generating data. This was before we had connected billions of devices, called the Internet of Things (IoTs), which would eventually begin collecting all manner of data. Big data even predates videos of cats published every day on social media platforms.
+- Internet of Things (IoT): The proliferation of connected devices generates enormous amounts of data. Everything from smart appliances to industrial sensors contributes to the Big Data landscape.
