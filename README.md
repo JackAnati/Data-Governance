@@ -115,5 +115,56 @@ The following basic checklist of items will help you determine the data governan
 
 # Chapter 2
 # Exploring a World Overflowing with Data 
+                 Defining Data
 
+Data is information such as facts and numbers used to analyze something or make decisions. *data governance is not the same as data management.* data governance establishes policies and procedures around data, while data management enacts those policies and procedures to compile and use that data for decision-making. 
 
+              Why all the focus on data?
+Data refers to collections of digitally stored units, in other words, stuff that is kept on a computing device. These units represent something meaningful when processed for a human or a computer. Single units of data are traditionally referred to as datum and multiple units as data. However, the term data is often used in singular and plural contexts and, in this course, We are going to simply refer to both as data. 
+
+         *Data is also defined based on its captured format. Specifically, at a high level, it falls into one of the following categories:*
+- Structured: Data that has been formatted to a set structure; each data unit fits nicely into a table in a database. It’s ready for analysis. Examples include first name, last name, and phone number.
+- Unstructured: Data that are stored in a native format must be processed to be used. Further work is required to enable analysis. Examples include email content and social media posts.
+- Semi-structured: Data that contains additional information to enable the native format to be searched and analyzed.
+
+Today, the term data processing has been replaced with information technology (IT).
+
+          *Welcome to The Zettabyte Era*
+Today, we live in the zettabyte era. A zettabyte is a big number. A really big number. It’s 1021, or a 1 with 21 zeros after it. It looks like this: 1,000,000,000,000,000,000,000 bytes.
+
+           From Data to Insight
+When we apply information coupled with broader contextual concepts, practical application, and experience, it becomes knowledge. Knowledge is actionable. It may also give relevance to the saying that- knowledge is power. To go further than this. When we take new knowledge and apply reasoning, values, and the broader universe of our knowledge and deep experiences, we get wisdom. With wisdom, we know what to do with knowledge and can determine its contextual validity. We could have stopped at knowledge, but wisdom takes us to the ultimate destination derived from data. All wisdom includes knowledge, but not all knowledge is wisdom. 
+
+           Data-Driven Decision-Making
+Perhaps one of the greatest values of data is its ability to help us all make better decisions. Intuitively reading the customer reviews of a restaurant on a website such as Hello Peter or Google Reviews can help you decide whether you want to eat there. It’s valuable to you, but it’s also valuable to the restaurant owner. Those reviews can make a big difference, including being a motivation for action. Perhaps the restrooms should be cleaner.
+
+           Data as The New Oil
+A popular refrain coined by the mathematician Clive Humby in 2006 is that data is the new oil. Just as oil drove and grew economies in the past, data is doing that now. Some have subsequently added that just like oil, data has value but must first be processed to be useful. Specifically, oil is refined to make gas, plastics, and other useful chemicals. In a similar fashion, data must be organized and analyzed to understand patterns, make decisions, identify problems, and feed other systems.
+
+          Data ownership
+Data ownership describes the rights a person, team, or organization has over one or more data sets. These rights may span from lightweight oversight and control to rigorous rules that are legally enforceable. For example, data associated with intellectual property — items such as copyrights and trade secrets — will likely have high degrees of protection, from accessibility rights to who can use the data and for what purpose.
+
+             Data Architecture
+When designing the technical needs of an organization to support its business strategy, this practice is known as enterprise architecture (EA). Using standards and established principles, organizations can analyze, design, plan, and implement the right technologies, policies, and projects to support business goals.
+
+A subset of EA is data architecture. In the same manner, which you can consider the holistic nature of EA in support of the organization’s strategy, data architecture is the manner in which data design and management decisions are being made to align with EA and in turn, with the business. Simply stated, data architecture is the agreed blueprint for how data supports an organization’s functions and technologies.
+
+At a minimum, data architecture considers and typically supports the following:
+
+- Ensuring data is available to those who need it and are approved to use it.
+- Reducing the complexity of accessing and utilizing data
+- Creating and enforcing data protections to support organizational policies and obligations.
+- Adopting and agreeing to data standards
+- Optimizing the flow and efficient use of data to eliminate bottlenecks and duplication
+
+**Data architecture** is a direct reflection of data governance. An established and functioning data architecture immediately signals that an organization values data, manages it as a critical business asset, and has controls in place to ensure that it aligns with business needs. Indeed, like EA, data architecture is not the exclusive realm of technologists but a cross-organizational responsibility.
+
+             The Lifecycle of Data
+1. **Creation:**  This is the stage at which data comes into being. It may be manual or automated and get created internally or externally. Data is created all the time by a vast number of activities that include system inputs and outputs.
+2. **Storage:**  Once data is created and assuming you want it available for later use, it must be stored. It most likely will be contained and managed in a database. The database needs a home, too as a local hard drive, server, or cloud service.
+3. **Usage:**  Hopefully you’re capturing and storing data because you want to use it. Maybe not immediately, but at some point, perhaps for analysis. Data may need to be processed to be useful. That could include cleansing it of errors, transforming it to another format, and securing access rights.
+4. **Archival:**  In this stage, you identify data that is not currently being used and move it to a long-term storage system out of your production environment. If it's needed at some point in the future, it can be retrieved and utilized.
+5. **Destruction:**  Despite a desire by some to keep everything forever, there is a logical point where destruction makes sense or is required by regulation or policy. Data destruction involves making data inaccessible and unreadable. It can include the physical destruction of a device such as a hard drive.
+
+          Defining Big Data
+**Big data** is structured and unstructured data that is so massive and complex in scale, that it’s difficult and often impossible to process via traditional data management techniques.
