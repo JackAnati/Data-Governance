@@ -233,3 +233,22 @@ Reports are typically online or physical presentations of data and information o
 2. Problem-solving:  Acknowledging the close association with decision-making, it’s worth calling out problem-solving as a distinctive use of data. Data plays a role in how a problem is defined, determining what solutions are available, evaluating which solution to use, and measuring the success or failure of the solution that is chosen and applied.
 3. Data reuse:  While we collect and use data for a specific primary purpose, data is often reused for entirely different reasons. Data that has been collected, used, and stored can be retrieved and used by a different team at another time - assuming they have permission, including access and legal rights (notable controls within data governance). For example, the sales team in an organization will collect your name and address in order to fulfill an order. Later, that same data set may be used by the marketing team to create awareness about other products and services. These are two different teams with different goals using the same data. Data reuse can be considered a positive given that it reduces data collection duplication and increases the value of data to an organization, but it must be managed with care so that it doesn’t break any data use rules. (Note: High-value shared data sets are called master data, and in data governance, they are subject to master data management.)
 
+       Improving Outcomes with Data
+Now that the diverse roles of data have been identified and discussed, it’s useful to understand how data can be leveraged to acquire its maximum value. It begins with recognizing that data is an organizational asset. This simply means that it’s something that brings economic value to the organization. It’s clear to see this when it is pointed out, but many team members don’t yet look at data this way. When data is considered an asset - in fact, specifically a high-value asset - it often gets treated differently. **Note** Perhaps the function that is most associated with data is the process of exploring it and looking for insights. Called data analytics, this is a comprehensive organizational function that requires skilled staff and tools. With the emergence of big data, data analytics has become more complex and requires deeper skills, but it’s also made data more valuable and important to the business.
+
+          Approaching Data as an Asset
+An asset is something that is owned by a person, an organization, or a government with the expectation that it can bring some economic benefit. This includes the generation of income, the reduction of expenses, or an increase in net worth. **Note** An asset can be tangible or intangible. Tangible assets are physical things such as inventory, machines, and property. That’s stuff you can see and touch. An intangible asset is the opposite; it’s a non-physical thing like software, copyrights, a brand, and goodwill. Data is an intangible asset. 
+**Here are some examples of the economic value of data:**
+
+- Improves operations.
+- Increases existing revenue.
+- Produces new forms of revenue.
+- Builds relationships with customers and other stakeholders.
+- Improves the quality of products and services.
+- Contributes to competitive advantage.
+- Enables innovation.
+- Reduces risk.
+
+**Bottom line:** Data is an asset and for its value to be leveraged, it must be governed. This may be one of the most important motivations for good data governance.
+
+
