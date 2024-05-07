@@ -180,3 +180,23 @@ At a minimum, data architecture considers and typically supports the following:
          Drivers of Big Data
 Big data was a thing even before Android and Apple smartphones and apps started generating data. This was before we had connected billions of devices, called the Internet of Things (IoTs), which would eventually begin collecting all manner of data. Big data even predates videos of cats published every day on social media platforms.
 - Internet of Things (IoT): The proliferation of connected devices generates enormous amounts of data. Everything from smart appliances to industrial sensors contributes to the Big Data landscape.
+
+
+         Consequences of Big Data
+While these big data statistics are impressive, they don’t really paint the full picture. It might be easy, for example, to assume that all the data is good quality. You might believe it is easy to analyze. You may even think it is easily accessible. Most of these assumptions and many related ones will likely be incorrect. For starters, up to 80 percent of data is unstructured. That’s a challenge right there. The vast majority of organizations struggle with unstructured data. In addition, a lot of this data is duplicative. Some of it will be bad data, which means it can’t be trusted, has errors, or includes some other substantive challenge.
+
+
+         What about small data?
+  Big questions can be answered in small data.
+
+In fact, big data is often more meaningful when broken into smaller, more manageable chunks - an increasingly popular definition of small data. Smaller, logically arranged data can be the way to make sense of big data. In some circumstances, it may be the only way.
+
+
+         Enter the Realm of Smart Data
+Smart data has emerged as a new term that defines big data that’s been optimally prepared for use to deliver the highest business value. Instead of being overwhelmed by the distractions inherent to the volume, velocity, and variety of data in big data sets, processes are applied to big data to prepare it for specific uses. For example, marketing teams can target potential customers with precision. Analytics applications can use high-quality real-time data generated in a manufacturing setting.
+**In the 21st century we must recognize that all data can have value — big, small, and smart. Data governance is concerned with data no matter what form it takes.**
+
+# Chapter 3
+# Driving Value Through Data
+
+
